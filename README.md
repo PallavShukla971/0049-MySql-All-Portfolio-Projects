@@ -3,9 +3,7 @@ Hey Everyone, please find all MySql Projects.
 
 # Projects can be made visible on a Zoom Call
 
-Here is the list of all SQL work by me:
-
-###########################################   SQL ##############################################
+# #####-#####__-SQL-__#####-#####
 
 0030 ----------------- 0030-SQL-Data-Analayst-Project-1 -----------------
 
