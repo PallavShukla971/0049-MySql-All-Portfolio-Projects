@@ -45,4 +45,4 @@ Here is the list of all SQL work by me:
 
 0048 ----------------- [0048-SQL-Data-Analayst-Basic-Practice](https://github.com/PallavShukla971/0048-SQL-Data-Analayst-Basic-Practice) -----------------
 
-0049 ----------------- [0049-MySql-All-Portfolio-Projects](https://github.com/PallavShukla971/0049-MySql-All-Portfolio-Projects/tree/main)https://github.com/PallavShukla971/0049-MySql-All-Portfolio-Projects/tree/main -----------------
+0049 ----------------- [0049-MySql-All-Portfolio-Projects](https://github.com/PallavShukla971/0049-MySql-All-Portfolio-Projects/tree/main) -----------------
